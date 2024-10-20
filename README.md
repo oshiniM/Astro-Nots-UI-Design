@@ -17,7 +17,7 @@ Our approach to this project followed these steps:
 **Identifying Issues**: Key usability problems were identified, such as poor navigation, inconsistent layouts, and difficulty in finding content.
 **Wireframing and Prototyping**: Using Figma, we created multiple wireframe designs for each page and selected the best options for high-fidelity prototypes.
 **User Testing**: We tested the redesigned pages with users to ensure the usability issues were resolved.
-For more details, you can refer to the [Final Report](link_to_final_report).
+For more details, you can refer to the [Project_Report](https://github.com/user-attachments/files/17450222/HCI_Report.pdf).
 
 ### Redesigned Pages
 - **Sign Up Page**
@@ -34,7 +34,7 @@ For more details, you can refer to the [Final Report](link_to_final_report).
 ## Final Report
 
 You can read the detailed project report, which outlines our research, findings, and design choices:  
-[Final Report - PDF](link_to_final_report)
+[Project_Report](https://github.com/user-attachments/files/17450222/HCI_Report.pdf)
 
 
 ## Contributors
