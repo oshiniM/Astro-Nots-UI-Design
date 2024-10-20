@@ -1,14 +1,14 @@
+
 # Astro-Nots - Redesigning 'Historian of the Future' Website
+
+<img width="955" alt="figma design" src="https://github.com/user-attachments/assets/a60ada46-e9eb-4d35-a8ea-f890463b024a">
 
 ## Project Overview
 
 This project is part of the **Human-Computer Interaction (HCI)** module, aiming to improve the usability of an existing website by identifying user interface issues and redesigning it for a better user experience. We chose the [Historian of the Future](https://www.historianofthefuturex.com/) website, which had several UI challenges. The redesigned pages were created using **Figma** and focus on enhanced navigation, better layout, and consistency.
 
-## Technology Stack
-**Figma**: For prototyping and wireframing.
-
 ## Prototype
-Click Here to Run our Figma Prototypes 👉  [Figma](https://www.figma.com/design/TYhNUzHNGKSRWJpjKAa9dZ/HCI-Project--(Astro-Nots)?node-id=0-1&t=a0yTHUBeHDkZTKcX-1)
+#### Click Here to Run our Figma Prototypes 👉  [Figma](https://www.figma.com/design/TYhNUzHNGKSRWJpjKAa9dZ/HCI-Project--(Astro-Nots)?node-id=0-1&t=a0yTHUBeHDkZTKcX-1)
 
 ## Methodology
 
