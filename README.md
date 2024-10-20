@@ -1,1 +1,47 @@
-# Astro-Nots
+# Astro-Nots - Redesigning 'Historian of the Future' Website
+
+## Project Overview
+
+This project is part of the **Human-Computer Interaction (HCI)** module, aiming to improve the usability of an existing website by identifying user interface issues and redesigning it for a better user experience. We chose the [Historian of the Future](https://www.historianofthefuturex.com/) website, which had several UI challenges. The redesigned pages were created using **Figma** and focus on enhanced navigation, better layout, and consistency.
+
+## Technology Stack
+**Figma**: For prototyping and wireframing.
+
+## Prototype
+Click Here to Run our Figma Prototypes 👉  [Figma](https://www.figma.com/design/TYhNUzHNGKSRWJpjKAa9dZ/HCI-Project--(Astro-Nots)?node-id=0-1&t=a0yTHUBeHDkZTKcX-1)
+
+## Methodology
+
+Our approach to this project followed these steps:
+**User Research**: We conducted contextual inquiries with relevant users to gather feedback on the current website.
+**Identifying Issues**: Key usability problems were identified, such as poor navigation, inconsistent layouts, and difficulty in finding content.
+**Wireframing and Prototyping**: Using Figma, we created multiple wireframe designs for each page and selected the best options for high-fidelity prototypes.
+**User Testing**: We tested the redesigned pages with users to ensure the usability issues were resolved.
+For more details, you can refer to the [Final Report](link_to_final_report).
+
+### Redesigned Pages
+- **Sign Up Page**
+- **Home Page**
+- **Projects Page**
+- **FAQ Page**
+- **Contact Us Page**
+- **Blog Pages**
+- **Art Page**
+- **Tech Page**
+- **Profile Page**
+
+
+## Final Report
+
+You can read the detailed project report, which outlines our research, findings, and design choices:  
+[Final Report - PDF](link_to_final_report)
+
+
+## Contributors
+
+- **Veenath G.D.T**
+- **Kandage T.P** 
+- **Malmali W.S.V.M.O** 
+- **Panditharathne R.L** 
+- **Lakshika D.A.S.T**
+
