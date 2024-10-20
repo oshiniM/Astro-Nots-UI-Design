@@ -1,16 +1,16 @@
 
-# Astro-Nots - Redesigning 'Historian of the Future' Website
+## Astro-Nots - Redesigning 'Historian of the Future' Website
 
 <img width="955" alt="figma design" src="https://github.com/user-attachments/assets/a60ada46-e9eb-4d35-a8ea-f890463b024a">
 
-## Project Overview
+### Project Overview
 
-This project is part of the **Human-Computer Interaction (HCI)** module, aiming to improve the usability of an existing website by identifying user interface issues and redesigning it for a better user experience. We chose the [Historian of the Future](https://www.historianofthefuturex.com/) website, which had several UI challenges. The redesigned pages were created using **Figma** and focus on enhanced navigation, better layout, and consistency.
+This project is part of the Human-Computer Interaction (HCI) module, aiming to improve the usability of an existing website by identifying user interface issues and redesigning it for a better user experience. We chose the [Historian of the Future](https://www.historianofthefuturex.com/) website, which had several UI challenges. The redesigned pages were created using Figma and focused on better navigation and consistency.
 
-## Prototype
-#### Click Here to Run our Figma Prototypes 👉  [Figma](https://www.figma.com/design/TYhNUzHNGKSRWJpjKAa9dZ/HCI-Project--(Astro-Nots)?node-id=0-1&t=a0yTHUBeHDkZTKcX-1)
+### Prototype
+#### Click Here to Run our Figma Prototypes 👉  [Astro-Nots](https://www.figma.com/design/TYhNUzHNGKSRWJpjKAa9dZ/HCI-Project--(Astro-Nots)?node-id=0-1&t=a0yTHUBeHDkZTKcX-1)
 
-## Methodology
+### Methodology
 
 Our approach to this project followed these steps:
 **User Research**: We conducted contextual inquiries with relevant users to gather feedback on the current website.
@@ -31,13 +31,13 @@ For more details, you can refer to the [Project_Report](https://github.com/user-
 - **Profile Page**
 
 
-## Final Report
+### Final Report
 
 You can read the detailed project report, which outlines our research, findings, and design choices:  
 [Project_Report](https://github.com/user-attachments/files/17450222/HCI_Report.pdf)
 
 
-## Contributors
+### Contributors
 
 - **Veenath G.D.T**
 - **Kandage T.P** 
