@@ -8,7 +8,7 @@
 This project is part of the Human-Computer Interaction (HCI) module, aiming to improve the usability of an existing website by identifying user interface issues and redesigning it for a better user experience. We chose the [Historian of the Future](https://www.historianofthefuturex.com/) website, which had several UI challenges. The redesigned pages were created using Figma and focused on better navigation and consistency.
 
 ### Prototype
-#### Click Here to Run our Figma Prototypes 👉  [Figma Prototype](https://www.figma.com/design/TYhNUzHNGKSRWJpjKAa9dZ/HCI-Project--(Astro-Nots)?node-id=0-1&t=a0yTHUBeHDkZTKcX-1)
+#### Click Here to Run our Figma Prototypes 👉  [Astro-Nots Figma Prototype](https://www.figma.com/design/TYhNUzHNGKSRWJpjKAa9dZ/HCI-Project--(Astro-Nots)?node-id=0-1&t=a0yTHUBeHDkZTKcX-1)
 
 ### Methodology
 
